@@ -10,7 +10,7 @@ Si quieres saber más sobre como prevenir los eventos: [https://www.youtube.com/
 
 ![Form Validations Preview](https://raw.githubusercontent.com/breatheco-de/exercise-html5-form-validations/master/preview.gif)
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
  
 ## 🌱  Cómo iniciar este proyecto
 
@@ -26,7 +26,7 @@ $ git clone https://github.com/4GeeksAcademy/vanillajs-hello
 
 💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <tu nueva url>`), y subir el código a tu nuevo repositorio utilizando `add`, `commit` y `push`.  
 
-</onlyfor>
+</how-to-start>
 
 ## Instrucciones
 
