@@ -1,6 +1,9 @@
 {
 	"status": "published",
-	"title" : "Use JS to validate an HTML Form",
+	"title" : {
+		"us": "Use JS to validate an HTML Form",
+		"es": "Utilizar JS para validar un formulario HTML"
+	},
 	"slug" : "html5-form-validations",
 	"duration" : 4,
 	"template_url": "https://github.com/4GeeksAcademy/vanillajs-hello",
@@ -10,7 +13,10 @@
 	"syntax": "bootstrap",
 	"solution" : "https://codepen.io/alesanchezr/pen/zeaaVx",
 	"preview": "https://github.com/breatheco-de/exercise-html5-form-validations/blob/master/preview.gif?raw=true",
-	"description" : "Use Javascript to validate the inputs of an HTML form (on submit)",
+	"description" : {
+		"us": "Learn to validate HTML forms using JavaScript, ensuring that the data entered by the user is correct and properly formatted before submission. Discover how to stop form submission, display clear error messages, and highlight incorrect fields, improving the user experience.",
+		"es": "Aprende a validar formularios HTML usando JavaScript, asegurando que los datos ingresados por el usuario sean correctos y estén bien formateados antes de enviarlos. Descubre cómo detener el envío del formulario, mostrar mensajes de error claros y resaltar campos incorrectos, mejorando la experiencia del usuario"
+	},
 	"talents": [
 		{ "badge": "form-inputs", "points": 10 },
 		{ "badge": "form-designer", "points": 10 },
@@ -21,5 +27,8 @@
 		{ "badge": "abc", "points": 5 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+	"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=198"
+  }
 }
